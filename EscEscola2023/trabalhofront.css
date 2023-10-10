@@ -1,0 +1,52 @@
+.nome{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   
+ }
+ 
+ h1{
+     text-align: center;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ p{
+     text-align: center;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ 
+ .java{
+     text-align: center;
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
+ body{
+    border-style: solid;
+    margin: 0px 450px;
+     color: black;
+     background-color: rgb(151, 154, 51);
+ }
+ .boate{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ }
+ .img{
+    text-align: center;
+    align-items: center;
+    flex-direction:column;
+ }
+ .caixa{
+    text-align: center;
+    display: flexbox;
+    align-items: center;
+    flex-direction: row;
+
+ }
+ 
